@@ -5,6 +5,9 @@
 <ul>
     <li>Fork this repository or download a zip file copy of the app</li>
     <li>Run <code>composer install</code></li>
+    <li>Copy and paste the <code>.env.example</code> file and rename the new file to <code>.env</code></li>
+    <li>Create your mysql database and fill the correct credentials in the <code>.env</code> file</li>
+    <li>You can also set up a <a href="https://mailtrap.io">mailtrap account<a/> and copy your api keys to the <code>.env</code> file.</li>
     <li>Run <code>php artisan migrate --seed</code></li>
     <li>Run <code>php artisan serve</code> to run the application</li>
 </ul>
