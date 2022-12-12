@@ -1,5 +1,5 @@
 <h1>Freelance Trading Platform</h1>
-<p>This app is a freelance app just like every other freelance application, this application was built specifically for from forex and crypto traders. </p>
+<p>This app is a freelance app unlike every other freelance application, this application was built specially for forex and crypto traders. You can access the live version on <a href="https://tranzir.com" target="_blank">tranzir.com</a></p>
 
 <h2>How to install</h2>
 <ul>
